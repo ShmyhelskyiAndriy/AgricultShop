@@ -5,17 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bee96c5-530a-4b7e-a44d-70b4df03317f" name="Changes" comment="let's go everybody 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/MyJDBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/service/TechSupportBot.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/Const.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/Const.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/Const.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/DemoTestBotApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/DemoTestBotApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/database/MyJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/database/MyJDBC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/database/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/database/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/service/TestBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/service/TestBot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/DemoTestBot/Database/MyJDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/DemoTestBot/Database/MyJDBC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/DemoTestBot/Database/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/DemoTestBot/Database/Post.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/DemoTestBot/DemoTestBotApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/DemoTestBot/DemoTestBotApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/DemoTestBot/service/TestBot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/database/MyJDBC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/database/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/service/Action.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/service/TestBot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +33,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d329e58f-b303-490c-8e00-70096f92166a" />
+        <option name="url" value="https://github.com/ShmyhelskyiAndriy/AgricultShop.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,11 +73,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/andre/OneDrive/Робочий стіл/tg_bot-i18n&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/andre/OneDrive/Робочий стіл/AgricultShop&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.26067615&quot;
   }
 }</component>
@@ -73,6 +88,9 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\andre\OneDrive\Робочий стіл\DemoTestBot\DemoTestBot\lib" />
       <recent name="C:\Users\andre\OneDrive\Робочий стіл\DemoTestBot\DemoTestBot" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.DemoTestBot" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.example.DemoTestBot.service" />
