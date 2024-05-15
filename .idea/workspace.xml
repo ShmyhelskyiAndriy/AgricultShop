@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bee96c5-530a-4b7e-a44d-70b4df03317f" name="Changes" comment="let's go everybody 2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/MyJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/UserHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/service/TechSupportBot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/Const.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/DemoTestBotApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/DemoTestBotApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/database/MyJDBC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/database/Post.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/service/Action.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/service/TestBot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="2bee96c5-530a-4b7e-a44d-70b4df03317f" name="Changes" comment="let's go everybody 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
