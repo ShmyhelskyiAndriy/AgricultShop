@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bee96c5-530a-4b7e-a44d-70b4df03317f" name="Changes" comment="let's go everybody 2">
+    <list default="true" id="2bee96c5-530a-4b7e-a44d-70b4df03317f" name="Changes" comment="0.93v">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/Database.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/Const.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/Const.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/DemoTestBotApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/DemoTestBotApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/database/MyJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/database/MyJDBC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/database/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/database/Post.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/service/TestBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/service/TestBot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/DemoTestBot/Database/MyJDBC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/DemoTestBot/Database/MyJDBC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/DemoTestBot/Database/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/DemoTestBot/Database/Post.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/DemoTestBot/DemoTestBotApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/DemoTestBot/DemoTestBotApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/DemoTestBot/service/TestBot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/MyJDBC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/UserHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/UserHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/service/TechSupportBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/DemoTestBot/service/TechSupportBot.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,18 +51,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/andre/OneDrive/Робочий стіл/tg_bot-i18n&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
-    &quot;settings.editor.splitter.proportion&quot;: &quot;0.26067615&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/andre/OneDrive/Робочий стіл/AgricultShop/lib/mysql-connector-j-8.2.0.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "settings.editor.splitter.proportion": "0.26067615"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\andre\OneDrive\Робочий стіл\DemoTestBot\DemoTestBot\src\lib" />
@@ -84,7 +81,7 @@
       <module name="AgricultShop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.example.DemoTestBot.*" />
+          <option name="PATTERN" value="com.example.DemoTestBot.Post" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,7 +146,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="let's go everybody" />
     <MESSAGE value="let's go everybody 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="let's go everybody 2" />
+    <MESSAGE value="0.93v" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.93v" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
