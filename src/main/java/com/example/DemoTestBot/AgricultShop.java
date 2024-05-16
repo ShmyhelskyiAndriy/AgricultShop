@@ -18,7 +18,7 @@ import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
   */
 
 @SpringBootApplication
-public class DemoTestBotApplication  {
+public class AgricultShop {
 
 	public static void main(String[] args){
 		SpringApplication.run(TechSupportBot.class, args);
