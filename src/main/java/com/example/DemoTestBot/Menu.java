@@ -9,6 +9,7 @@ import java.util.Scanner;
  * @see Post
  */
 public class Menu extends Database {
+
     /**
      * Метод навігації в системі для неавторизованого користувача
      */
@@ -23,12 +24,12 @@ public class Menu extends Database {
                 String username = sc.next();
                 System.out.println("Введіть пароль: ");
                 String password = sc.next();
+
                 if (validateLogin(username, password)) {
                     user = getUser(username, password);
 
                     System.out.println("Вхід успішний");
                     menu(user);
-
                 } else {
                     System.out.println("Логін або пароль введені невірно");
                 }
@@ -41,7 +42,6 @@ public class Menu extends Database {
                         System.out.println("Реєстрація успішна!");
                     } else {
                         System.out.println("Реєстрація невдала");
-
                     }
                 }
                 menu();
@@ -57,7 +57,6 @@ public class Menu extends Database {
             }
         }
     }
-
 
     /**
      * Метод навігації в системі для авторизованого користувача

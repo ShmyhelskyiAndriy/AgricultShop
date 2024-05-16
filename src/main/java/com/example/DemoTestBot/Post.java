@@ -250,7 +250,6 @@ public class Post extends Database {
     public int getUserId() {
         return userId;
     }
-
     public void setUserId(int userId) {
         this.userId = userId;
     }
@@ -258,7 +257,6 @@ public class Post extends Database {
     public String getTelNum() {
         return telNum;
     }
-
     public void setTelNum(String telNum) {
         this.telNum = telNum;
     }
@@ -266,7 +264,6 @@ public class Post extends Database {
     public String getType() {
         return type;
     }
-
     public void setType(String type) {
         this.type = type;
     }
@@ -274,7 +271,6 @@ public class Post extends Database {
     public String getBrand() {
         return brand;
     }
-
     public void setBrand(String brand) {
         this.brand = brand;
     }
@@ -282,7 +278,6 @@ public class Post extends Database {
     public String getModel() {
         return model;
     }
-
     public void setModel(String model) {
         this.model = model;
     }
@@ -290,7 +285,6 @@ public class Post extends Database {
     public String getEngine() {
         return engine;
     }
-
     public void setEngine(String engine) {
         this.engine = engine;
     }
@@ -298,7 +292,6 @@ public class Post extends Database {
     public int getYear() {
         return year;
     }
-
     public void setYear(int year) {
         this.year = year;
     }
@@ -306,7 +299,6 @@ public class Post extends Database {
     public int getCost() {
         return cost;
     }
-
     public void setCost(int cost) {
         this.cost = cost;
     }
@@ -314,7 +306,6 @@ public class Post extends Database {
     public String getDescription() {
         return description;
     }
-
     public void setDescription(String description) {
         this.description = description;
     }

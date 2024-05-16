@@ -63,7 +63,7 @@ public class UserHandler extends Database {
     }
 
     /**
-     * Підтвердження наміру користувача видалити акаунт
+     * Підтвердження наміру користувача видалити акаунт1
      */
     public void delUser() {
         System.out.println("!!!Всі ваші оголошення будуть втрачені!!! ");

@@ -16,7 +16,6 @@ import org.telegram.telegrambots.updatesreceivers.DefaultBotSession;
   * @see TechSupportBot
   * @see Menu
   */
-
 @SpringBootApplication
 public class AgricultShop {
 
@@ -30,8 +29,6 @@ public class AgricultShop {
 		}
 
 		new Menu().menu();
-
-
 	}
 }
 
